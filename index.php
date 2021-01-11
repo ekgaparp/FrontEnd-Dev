@@ -13,11 +13,17 @@
 </head>
 <body>
     <div class="container">
-        <h1>Hello World</h1>
-        <i class="fab fa-accessible-icon"></i>
-        <button class='btn btn-primary'>xxxx</button>
-        <button class='btn btn-primary'>xxxx</button>
-        <img src="img/IMG_9889.jpg" width="500px" alt="" srcset="">
+        <center>
+        <h1>Hello World</h1><br>
+        <img src="img/IMG_9889.jpg" width="350px" alt="" srcset="">
+         <br>
+        <br>
+        <button class='btn btn-primary'><i class="fab fa-accessible-icon"></i></button>
+            <button class='btn btn-primary'>xxxx</button>
+            <br>
+        </center>
+        
+
     </div>
     <script>
         $(()=>{
