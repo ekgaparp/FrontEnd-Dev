@@ -19,9 +19,8 @@
          <br>
         <br>
         <button class='btn btn-primary'><i class="fab fa-accessible-icon"></i></button>
-        <button class='btn btn-primary'><i class="fas fa-address-book"></i></i></button>
-        <i class="fas fa-address-book"></i>
-            <button class='btn btn-primary'>xxxx</button>
+        <button class='btn btn-primary'><i class="fas fa-address-book"></i></i></button>        <i class="fas fa-address-book"></i>
+        <button class='btn btn-primary'><i class="fas fa-ambulance"></i></button>
             <br>
         </center>
 
