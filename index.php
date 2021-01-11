@@ -9,11 +9,12 @@
     <script src="js/jquery-3.5.1.min.js"></script>
     <link rel="stylesheet" href="css/Mystyle.css">
     <script src="js/default.js"></script>
-
+    <link rel="stylesheet" href="icon/css/all.css">
 </head>
 <body>
     <div class="container">
         <h1>Hello World</h1>
+        <i class="fab fa-accessible-icon"></i>
         <button class='btn btn-primary'>xxxx</button>
         <button class='btn btn-primary'>xxxx</button>
         <img src="img/IMG_9889.jpg" width="500px" alt="" srcset="">
